@@ -16,11 +16,4 @@ mv results CRACK
 cd DARK-FB
 """
 
-print(" |-->Tunggu Sebentar Sedang Update Script....")
-os.system(PERINTAH)
-print(' |')
-print(' |')
-print(' |-->Update Script Sudah Selesai...')
-print(' |-->Silahkan Jalankan Perintah Ini : python run.py')
-os.sys.exit()
 
